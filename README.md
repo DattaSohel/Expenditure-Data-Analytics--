@@ -20,6 +20,13 @@ The project involved several critical steps, including data cleaning, explorator
 I used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous 
 performance history statewise in India.  To make prediction and better decision.
 
+<h2><b>Acknowledgements</b></h2>
+
+I would like to express my heartfelt gratitude to all the trainers and the iNeuron team for their invaluable support and guidance throughout the Expenditure Data Analysis Project. Their expertise and encouragement were instrumental in enhancing my data analysis skills and ensuring the successful completion of this project. I truly appreciate the collaborative environment fostered by the iNeuron team, which significantly contributed to my learning experience. Thank you for being an essential part of this journey.
+
+
+
+
 
 
 
