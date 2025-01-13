@@ -15,4 +15,4 @@ insights from this extensive information. To achieve this, I wrote approximately
 
 <link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
 
-    <meta name="description" content="Expenditure data analysis internship project from Ineuron.ai - Swatikhedekar/Expenditure-Data-Analysis-Project">
+    <a href: name="description" content="Expenditure data analysis internship project from Ineuron.ai - Swatikhedekar/Expenditure-Data-Analysis-Project">
