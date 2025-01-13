@@ -12,3 +12,5 @@ You can find the dataset on the given link
 
 The dataset comprised multiple files detailing state expenditures over several years. My primary objective was to apply my data analysis skills to extract meaningful 
 insights from this extensive information. To achieve this, I wrote approximately 200 lines of Python code utilizing libraries such as Pandas and Matplotlib for data manipulation and visualization.
+
+<meta name="description" content="Expenditure data analysis internship project from Ineuron.ai - Swatikhedekar/Expenditure-Data-Analysis-Project">
