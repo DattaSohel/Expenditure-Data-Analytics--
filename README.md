@@ -1,5 +1,9 @@
 # Expenditure-Data-Analytics- (Internship from Inueron.ai)
 
+<h2><b>Author</b></h2>
+
+https://github.com/DattaSohel
+
 <h2><b>Problem statement</b></h2>
 
 No business can survive in this competitive market without managing their cost. It does not matter if revenues are high but if cost is higher it is a red flag. So you are tasked to 
