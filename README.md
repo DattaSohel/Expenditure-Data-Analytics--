@@ -15,4 +15,7 @@ insights from this extensive information. To achieve this, I wrote approximately
 
 <link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
 
-    <a href: name="description" content="Expenditure data analysis internship project from Ineuron.ai - Swatikhedekar/Expenditure-Data-Analysis-Project">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <meta property="fb:app_id" content="1401488693436528">
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Swatikhedekar/Expenditure-Data-Analysis-Project/tree/main">
+
