@@ -12,7 +12,7 @@ Find key metrics and factors and show the meaningful relationships between attri
 You can find the dataset on the given link 
 <a href: https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp
 
-<h2><b>INtroduction</b></h2>
+<h2><b>Introduction</b></h2>
 
 The dataset comprised multiple files detailing state expenditures over several years. My primary objective was to apply my data analysis skills to extract meaningful 
 insights from this extensive information. To achieve this, I wrote approximately 200 lines of Python code utilizing libraries such as Pandas and Matplotlib for data manipulation and visualization.
