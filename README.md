@@ -8,14 +8,12 @@ The project involved several critical steps, including data cleaning, explorator
 You can find the dataset on the given link 
 <a href: https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp
 
-
-
 The dataset comprised multiple files detailing state expenditures over several years. My primary objective was to apply my data analysis skills to extract meaningful 
 insights from this extensive information. To achieve this, I wrote approximately 200 lines of Python code utilizing libraries such as Pandas and Matplotlib for data manipulation and visualization.
 
-<link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
 
-    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-    <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Swatikhedekar/Expenditure-Data-Analysis-Project/tree/main">
+
+
+
+<link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
 
