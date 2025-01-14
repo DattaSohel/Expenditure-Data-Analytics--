@@ -19,6 +19,14 @@ Find key metrics and factors and show the meaningful relationships between attri
 You can find the dataset on the given link 
 <a href: https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp
 
+<h2><b>What did the dataset have?</h2></b>
+
+The dataset comprised multiple files detailing state expenditures over several years. My primary objective was to apply my data analysis skills to extract meaningful insights from this extensive 
+information. 
+
+To achieve this, I wrote approximately 200 lines of Python code utilizing libraries such as Pandas and Matplotlib for data manipulation and visualization.
+
+
 <h2><b>Introduction</b></h2>
 
 In the <b>Expenditure Data Analysis Project</b>, I undertook a comprehensive analysis of a large dataset provided by Niti Aayog, focusing on the expenditure of various Indian states. 
@@ -36,7 +44,6 @@ decision.
 
 I would like to express my heartfelt gratitude to all the trainers and the iNeuron team for their invaluable support and guidance throughout the Expenditure Data Analysis Project. Their expertise and encouragement were instrumental in enhancing my data analysis skills and ensuring the successful completion of this project. I truly appreciate the collaborative environment fostered by the iNeuron team, which significantly contributed to my learning experience. Thank you for being an essential part of this journey.
 
-<h2><b>What did the dataset have?</h2></b>
 
 
 
