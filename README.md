@@ -27,7 +27,7 @@ The project involved several critical steps, including data cleaning, explorator
 I used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous 
 performance history statewise in India.  To make prediction and better decision.
 
-An *Expenditure Data Analysis* is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India. I used python libraries to get 
+An <b>Expenditure Data Analysis</b> is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India. I used python libraries to get 
 expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous performance history statewise in India. 
 First extract dataset given above, prepared data, clean ,load and transform into Power BI desktop Then creating an interactive insightful dashboard and publish on novypro. To make prediction and better 
 decision.
