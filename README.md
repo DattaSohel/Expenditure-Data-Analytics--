@@ -45,12 +45,8 @@ decision.
 I would like to express my heartfelt gratitude to all the trainers and the iNeuron team for their invaluable support and guidance throughout the Expenditure Data Analysis Project. Their expertise and encouragement were instrumental in enhancing my data analysis skills and ensuring the successful completion of this project. I truly appreciate the collaborative environment fostered by the iNeuron team, which significantly contributed to my learning experience. Thank you for being an essential part of this journey.
 
 
+<h2><b>Key Tasks:</b></h2>
 
 
 
-
-
-
-
-<link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
 
