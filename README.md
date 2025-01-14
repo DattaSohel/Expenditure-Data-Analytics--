@@ -47,6 +47,14 @@ I would like to express my heartfelt gratitude to all the trainers and the iNeur
 
 <h2><b>Key Tasks:</b></h2>
 
+<ul>
+  <li> Data Cleaning: I meticulously cleaned the dataset to ensure accuracy and reliability for analysis.</li>
+  <li> Analysis and Reporting: I generated detailed project reports that highlighted significant findings and trends in the expenditure data. </li>
+  <li> Data Visualization: I created PowerPoint presentations to effectively communicate the results, employing visual aids to illustrate key insights. <li>
+  
+  
 
+  
+</ul>
 
 
