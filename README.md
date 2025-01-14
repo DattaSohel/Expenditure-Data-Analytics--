@@ -4,7 +4,7 @@
 
 <a> </a> 
 <a href="https://github.com/DattaSohel"> </a> 
-<a href="https://github.com/DattaSohel">Sohel Datta</a> 
+<b><a href="https://github.com/DattaSohel">Sohel Datta</a></b>
 
 
 <h2><b>Problem statement</b></h2>
