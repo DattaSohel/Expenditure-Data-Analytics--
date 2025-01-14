@@ -21,11 +21,16 @@ You can find the dataset on the given link
 
 <h2><b>Introduction</b></h2>
 
-In the Expenditure Data Analysis Project, I undertook a comprehensive analysis of a large dataset provided by Niti Aayog, focusing on the expenditure of various Indian states. 
+In the *Expenditure Data Analysis Project*, I undertook a comprehensive analysis of a large dataset provided by Niti Aayog, focusing on the expenditure of various Indian states. 
 The project involved several critical steps, including data cleaning, exploratory data analysis (EDA), and visualization.
 
 I used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous 
 performance history statewise in India.  To make prediction and better decision.
+
+An *Expenditure Data Analysis* is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India. I used python libraries to get 
+expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous performance history statewise in India. 
+First extract dataset given above, prepared data, clean ,load and transform into Power BI desktop Then creating an interactive insightful dashboard and publish on novypro. To make prediction and better 
+decision.
 
 <h2><b>Acknowledgements</b></h2>
 
