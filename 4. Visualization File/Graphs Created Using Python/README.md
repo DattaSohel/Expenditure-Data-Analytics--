@@ -1,4 +1,4 @@
-<h1><b>You Can find the Graphshere:</b></h1>
+<h1><b>You Can find the Graphs here: </b></h1>
 
 <a href="https://github.com/DattaSohel/Expenditure-Data-Analytics--Internship-from-Inueron.ai-/tree/main/4.%20Visualization%20File/Graphs%20Created%20Using%20Python">Graphs</a>
 
