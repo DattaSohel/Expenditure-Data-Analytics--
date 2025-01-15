@@ -39,6 +39,11 @@
     <li><b>Description:</b> Similar to the expenditure category countplot, this visualization displays the distribution of total expenditures across different states. It highlights which states have higher or lower expenditure levels.</li>
   </ul>
 
+  <h3><li><b> Line Plot: Yearly Expenditure in Specific State: </b> 
+  <ul>
+    <li><b>Description:</b> This line plot tracks yearly expenditure trends for a specified state over time. It helps visualize how expenditures have changed from year to year, allowing for trend analysis and comparisons with other states or categories.</li>
+  </ul>
+
 
 
 </ol>
