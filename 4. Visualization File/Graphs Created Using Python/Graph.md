@@ -3,7 +3,7 @@
 <h2>Graph Descriptions</h2>
 
 <ol>
-  <li>1. Heatmap of Missing Values:</li>
+  <li> Heatmap of Missing Values:</li>
   <ul>
     <li><b>Description:</b> This heatmap visually represents the presence of missing values in the dataset. Each cell corresponds to a data point, with colors indicating whether the value is present 
       (light color) or missing (dark color). This visualization helps identify patterns of missing data across different columns.</li>
