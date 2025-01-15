@@ -62,6 +62,7 @@
   <ul>
     <li><b>Description:</b> Similar to the previous bar plot, this visualization shows the top five expenditure categories based on total spending. It highlights which categories dominate overall expenditures, offering insights into budget allocation priorities.</li>
   </ul>
+  <br>
 
   These graphs collectively provide a comprehensive overview of expenditure patterns across Indian states and categories, facilitating 
   informed decision-making and further analysis in public financial management.
