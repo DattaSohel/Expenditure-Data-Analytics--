@@ -40,7 +40,7 @@
   </ul>
   <br>
 
-  <h3><li><b> Line Plot: Yearly Expenditure in Specific State: </b> 
+  <h3><li><b> Line Plot: Yearly Expenditure in Specific State: </b></li></h3>
   <ul>
     <li><b>Description:</b> This line plot tracks yearly expenditure trends for a specified state over time. It helps visualize how expenditures have changed from year to year, allowing for trend analysis and          comparisons with other states or categories.</li>
   </ul>
