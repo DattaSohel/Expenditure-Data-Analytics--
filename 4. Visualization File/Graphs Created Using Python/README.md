@@ -28,7 +28,7 @@
   </ul>
   <br>
 
-  <h3><li><b> Countplot for Expenditure Categories: </li></b></li>
+  <h3><li><b> Countplot for Expenditure Categories: </b></li></h3>
   <ul>
   <li><b>Description:</b> This specific countplot focuses on the "Exp Category" variable, showing how many expenditures fall into each category. It provides a quick overview of which categories are most prevalent in the dataset.</li>
   </ul>
@@ -36,12 +36,13 @@
 
   <h3><li><b> Countplot for Expenditure by State: </b></li></h3>
   <ul>
-    <li><b>Description:</b> Similar to the expenditure category countplot, this visualization displays the distribution of total expenditures across different states. It highlights which states have higher or lower expenditure levels.</li>
+    <li><b>Description:</b> Similar to the expenditure category countplot, this visualization displays the distribution of total expenditures across different states. It highlights which states have higher or         lower expenditure levels.</li>
   </ul>
+  <br>
 
   <h3><li><b> Line Plot: Yearly Expenditure in Specific State: </b> 
   <ul>
-    <li><b>Description:</b> This line plot tracks yearly expenditure trends for a specified state over time. It helps visualize how expenditures have changed from year to year, allowing for trend analysis and comparisons with other states or categories.</li>
+    <li><b>Description:</b> This line plot tracks yearly expenditure trends for a specified state over time. It helps visualize how expenditures have changed from year to year, allowing for trend analysis and          comparisons with other states or categories.</li>
   </ul>
 
 
