@@ -30,7 +30,8 @@
 
   <h3><li><b> Countplot for Expenditure Categories: </b></li></h3>
   <ul>
-  <li><b>Description:</b> This specific countplot focuses on the "Exp Category" variable, showing how many expenditures fall into each category. It provides a quick overview of which categories are most prevalent in the dataset.</li>
+  <li><b>Description:</b> This specific countplot focuses on the "Exp Category" variable, showing how many expenditures fall into each category. It provides a quick overview of which categories are most 
+    prevalent in the dataset.</li>
   </ul>
   <br>
 
@@ -48,10 +49,18 @@
 
   <h3><li><b> Line Plot: Yearly Expenditure for Specific Category: </b></li></h3>
   <ul>
-    <li><b>Description:</b> This line plot shows the trend in expenditures over time for a specific expenditure category. It allows for an understanding of how spending patterns have evolved and can highlight periods of significant change.</li>
+    <li><b>Description:</b> This line plot shows the trend in expenditures over time for a specific expenditure category. It allows for an understanding of how spending patterns have evolved and can highlight   periods of significant change.</li>
   </ul>
-  
+  <br>
 
+  <h3><li><b> Bar Plot: Top 5 States by Total Expenditure: 1</b></li></h3>
+  <ul>
+    <li>Description: This bar plot ranks and visualizes the top five states contributing to total expenditure. It provides a clear comparison of expenditure levels among these states, making it easy to identify       which states are leading in terms of spending.</li>
+  </ul>
 
+  <h3><li><b> Bar Plot: Top 5 Expenditure Categories:  </b></li></h3>
+  <ul>
+    <li><b>Description:</b> Similar to the previous bar plot, this visualization shows the top five expenditure categories based on total spending. It highlights which categories dominate overall expenditures, offering insights into budget allocation priorities.</li>
+  </ul>
 
 </ol>
