@@ -3,26 +3,26 @@
 <h2>Graph Descriptions</h2>
 
 <ol>
-  <li><b> Heatmap of Missing Values:</b></li>
+  <h3><li><b> Heatmap of Missing Values:</b></li></h3>
   <ul>
     <li><b>Description:</b> This heatmap visually represents the presence of missing values in the dataset. Each cell corresponds to a data point, with colors indicating whether the value is present 
       (light color) or missing (dark color). This visualization helps identify patterns of missing data across different columns.</li>
   </ul>
   <br>
 
-  <li><b> Histograms of Numeric Columns:</b></li>
+  <h3><li><b> Histograms of Numeric Columns:</b></li></h3>
   <ul>
     <li><b>Description:</b> This set of histograms displays the distribution of numeric variables in the dataset. Each histogram provides insights into the frequency distribution of values for each numeric column, helping to identify skewness, outliers, and general trends in expenditure data.</li>
   </ul>
   <br>
 
-  <li><b> Countplots for Categorical Variables: </b></li>
+  <h3><li><b> Countplots for Categorical Variables: </b></li></h3>
   <ul>
     <li><b>Description:</b> Countplots are generated for each categorical variable in the dataset, such as "Exp Category" and "State." These plots show the number of occurrences for each category, providing a clear visual representation of how expenditures are distributed across different categories and states.</li>
   </ul>
   <br>
 
-  <li><b> Correlation Heatmap:</b></li>
+  <h3><li><b> Correlation Heatmap:</b></li></h3>
   <ul>
     <li><b>Description:</b> The correlation heatmap illustrates the relationships between numeric variables in the dataset. Each cell shows the correlation coefficient between pairs of variables, with colors indicating the strength and direction of the correlation. This helps identify which factors are positively or negatively related to expenditure.</li>
   </ul>
