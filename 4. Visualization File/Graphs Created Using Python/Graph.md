@@ -26,6 +26,18 @@
   <ul>
     <li><b>Description:</b> The correlation heatmap illustrates the relationships between numeric variables in the dataset. Each cell shows the correlation coefficient between pairs of variables, with colors indicating the strength and direction of the correlation. This helps identify which factors are positively or negatively related to expenditure.</li>
   </ul>
+  <br>
+
+  <h3><li><b> Countplot for Expenditure Categories: </li></b></li>
+  <ul>
+  <li><b>Description:</b> This specific countplot focuses on the "Exp Category" variable, showing how many expenditures fall into each category. It provides a quick overview of which categories are most prevalent in the dataset.</li>
+  </ul>
+  <br>
+
+  <h3><li><b> Countplot for Expenditure by State: </b></li></h3>
+  <ul>
+    <li><b>Description:</b> Similar to the expenditure category countplot, this visualization displays the distribution of total expenditures across different states. It highlights which states have higher or lower expenditure levels.</li>
+  </ul>
 
 
 
