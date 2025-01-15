@@ -44,6 +44,13 @@
   <ul>
     <li><b>Description:</b> This line plot tracks yearly expenditure trends for a specified state over time. It helps visualize how expenditures have changed from year to year, allowing for trend analysis and          comparisons with other states or categories.</li>
   </ul>
+  <br>
+
+  <h3><li><b> Line Plot: Yearly Expenditure for Specific Category: </b></li></h3>
+  <ul>
+    <li><b>Description:</b> This line plot shows the trend in expenditures over time for a specific expenditure category. It allows for an understanding of how spending patterns have evolved and can highlight periods of significant change.</li>
+  </ul>
+  
 
 
 
