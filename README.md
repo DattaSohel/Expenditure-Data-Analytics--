@@ -50,8 +50,7 @@ I would like to express my heartfelt gratitude to all the trainers and the iNeur
 <ul>
   <li> <b>Data Cleaning:</b> I meticulously cleaned the dataset to ensure accuracy and reliability for analysis.</li>
   <li> <b>Analysis and Reporting:</b> I generated detailed project reports that highlighted significant findings and trends in the expenditure data. </li>
-  <li> <b>Data Visualization:</b> I created PowerPoint presentations to effectively communicate the results, employing visual aids to illustrate key insights. <li>
-  
+  <li> <b>Data Visualization:</b> I created PowerPoint presentations to effectively communicate the results, employing visual aids to illustrate key insights. </li>
 </ul>
 
 
